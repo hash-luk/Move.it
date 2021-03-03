@@ -9,17 +9,17 @@
 <img src="https://img.shields.io/static/v1?label=Next%20JS&message=10.0.7&color=adccb6&style=for-the-badge&logo=next.js"/>
 </div>
 
-Tabela de Conteúdos
+#Tabela de Conteúdos
 ===================
 
-    * [Funcionalidades](#Funcionalidades)
-    * [Imagens](#Imagens)
+    * [Funcionalidades](#funcionalidades)
+    * [Imagens](#imagens)
     * [Como Usar](#Como-usar)
-        * [Pré-requisitos](#Pré-requisitos)
-        * [Instalando as dependências](#Instalando-as-dependências)
-        * [Utilização](#Utilização)
-    * [Tecnologias](#Tecnologias)
-    * [Finalização](#Finalização)
+        * [Pré-requisitos](#pré-requisitos)
+        * [Instalando as dependências](#instalando-as-dependências)
+        * [Utilização](#utilização)
+    * [Tecnologias](#tecnologias)
+    * [Finalização](#finalização)
 
 
 <h4 align="center">
@@ -49,31 +49,31 @@ Tabela de Conteúdos
 
 Para utilizar o projeto é necessário ter instaldo o [NPM](https://www.npmjs.com/get-npm) ou o yarn [YARN](https://classic.yarnpkg.com/en/).
 
-
+<br/>
 ## 📚 Instalando as dependências
 
-#### Primeiro clone este repositório
+### Primeiro clone este repositório
 
 <p>git clone</p>
 
 
-#### Acesse a pasta do projeto no seu terminal
+### Acesse a pasta do projeto no seu terminal
 
 <p>cd moveit-next</p>
 
 
-#### Depois abra com seu editor padrão (Como VScode)
+### Depois abra com seu editor padrão (Como VScode)
 
 <p>code .</p>
 
 
-#### Agora instale as dependências abaixo
+### Agora instale as dependências abaixo
 
 <p>yarn add firebase/react-firebaseui</p>
 <p>yarn add typescript/ @types/react -D</p>
 
 
-###### 💻 Utilização
+##### 💻 Utilização
 <p>Agora simplesmente abra um terminal na pasta do projeto e digite</p>
 <br/>
 <p>yarn dev
