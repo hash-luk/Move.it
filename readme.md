@@ -1,5 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/hash-luk/Move.it.git">Move.it</a>
+    <img src="/logo.svg"/>
 </h1>
 <p align="center">A project that uses the Pomodoro technique to keep you healthy and focused while coding</p>
 
@@ -9,22 +10,12 @@
 <img src="https://img.shields.io/static/v1?label=Next%20JS&message=10.0.7&color=adccb6&style=for-the-badge&logo=next.js"/>
 </div>
 
-# Tabela de Conteúdos
-=====================
-
-    * [Funcionalidades](#funcionalidades)
-    * [Imagens](#imagens)
-    * [Pré requisitos](#pré-requisitos)
-        * [Instalando as dependências](#instalando-as-dependências)
-        * [Utilização](#utilização)
-    * [Tecnologias](#tecnologias)
-    * [Finalização](#finalização)
 
 
 <h4 align="center">
     🚧  Move.it 🚀 Em construção...  🚧
 
-## ⚙️Funcionalidades <a name=funcionalidades></a>
+## ⚙️Funcionalidades <a name="funcionalidades"></a>
 
 
 - [X] Login com GitHub
