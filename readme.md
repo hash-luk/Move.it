@@ -63,22 +63,22 @@ Para utilizar o projeto é necessário ter instaldo o [NPM](https://www.npmjs.co
 
 
 #### Depois abra com seu editor padrão (Como VScode)
-´´´
-<p>code .
-´´´
+
+<p>code .</p>
+
 
 #### Agora instale as dependências abaixo
-´´´
+
 <p>yarn add firebase/react-firebaseui</p>
 <p>yarn add typescript/ @types/react -D</p>
-´´´
+
 
 ###### 💻 Utilização
 <p>Agora simplesmente abra um terminal na pasta do projeto e digite</p>
-´´´
-<p>yarn dev</p>
-<p>npm run dev</p>
-´´´
+<br/>
+<p>yarn dev
+<p>npm run dev
+<br/>
 <br/>
 <p>Pronto agora é possivel acessar a aplicação a partir da rota: https://localhost:3000</p>
 
