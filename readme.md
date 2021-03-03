@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://github.com/hash-luk/Move.it.git">Move.it</a>
-    <img src="/logo.svg"/>
+    <img src="./screenshots/logo.svg"/>
 </h1>
 <p align="center">A project that uses the Pomodoro technique to keep you healthy and focused while coding</p>
 
