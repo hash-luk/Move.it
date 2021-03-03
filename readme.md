@@ -52,28 +52,28 @@ Para utilizar o projeto é necessário ter instaldo o [NPM](https://www.npmjs.co
 
 ## 📚 Instalando as dependências
 
-# Primeiro clone este repositório
+#### Primeiro clone este repositório
 ´´´
 $git clone
 ´´´
 
-# Acesse a pasta do projeto no seu terminal
+#### Acesse a pasta do projeto no seu terminal
 ´´´
 $cd moveit-next
 ´´´
 
-# Depois abra com seu editor padrão (Como VScode)
+#### Depois abra com seu editor padrão (Como VScode)
 ´´´
 $code .
 ´´´
 
-# Agora instale as dependências abaixo
+#### Agora instale as dependências abaixo
 ´´´
 $yarn add firebase/react-firebaseui
 $yarn add typescript/ @types/react -D
 ´´´
 
-## 💻 Utilização
+###### 💻 Utilização
 <p>Agora simplesmente abra um terminal na pasta do projeto e digite</p>
 ´´´
 $yarn dev
