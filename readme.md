@@ -28,10 +28,10 @@ Tabela de Conteúdos
 ## ⚙️Funcionalidades
 
 
-- [X]Login com GitHub
-- [ ]Leaderboard
-- [ ]Compartilhar no Twitter
-- [ ]Outras formas de login
+- [X] Login com GitHub
+- [ ] Leaderboard
+- [ ] Compartilhar no Twitter
+- [ ] Outras formas de login
 
 
 ## 🖼️ Imagens
@@ -79,7 +79,7 @@ $yarn add typescript/ @types/react -D
 $yarn dev
 $npm run dev
 ´´´
-
+<br/>
 <p>Pronto agora é possivel acessar a aplicação a partir da rota: https://localhost:3000</p>
 
 ## 🛠️ Tecnologias
