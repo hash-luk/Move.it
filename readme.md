@@ -10,7 +10,6 @@
 </div>
 
 #Tabela de Conteúdos
-===================
 
     * [Funcionalidades](#funcionalidades)
     * [Imagens](#imagens)
@@ -24,7 +23,7 @@
 <h4 align="center">
     🚧  Move.it 🚀 Em construção...  🚧
 
-## ⚙️Funcionalidades
+## ⚙️Funcionalidades <a name=funcionalidades></a>
 
 
 - [X] Login com GitHub
