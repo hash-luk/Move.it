@@ -1,6 +1,5 @@
 <h1 align="center">
     <a href="https://github.com/hash-luk/Move.it.git">Move.it</a>
-    <img src="./screenshots/logo.svg"/>
 </h1>
 <p align="center">A project that uses the Pomodoro technique to keep you healthy and focused while coding</p>
 
@@ -40,7 +39,8 @@
 Para utilizar o projeto é necessário ter instaldo o [NPM](https://www.npmjs.com/get-npm) ou o yarn [YARN](https://classic.yarnpkg.com/en/).
 
 <br/>
-## 📚 Instalando as dependências
+
+##  📚 Instalando as dependências
 
 ### Primeiro clone este repositório
 
