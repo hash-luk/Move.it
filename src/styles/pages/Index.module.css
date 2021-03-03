@@ -1,0 +1,54 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    background: var(--blue);
+}
+
+.logo_section {
+    /* padding-right: 900px; */
+    overflow: hidden;
+    transform:translateX(-350px);
+}
+
+.login_section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    color: var(--white);
+    transform:translate(100px);
+}
+
+.information_screen p{
+    font-size: 0.80rem;
+    -webkit-user-select: none;
+}
+
+
+.login_section h1{
+    font-size: 2.2rem;
+    font-weight: 700;
+    padding: 5px 0px;
+    -webkit-user-select: none;
+}
+
+.logo {
+    margin-bottom: 98px;
+    margin-top: 100px;
+}
+
+.information_screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.information_screen a{
+    margin-top: 10px;
+}
+
