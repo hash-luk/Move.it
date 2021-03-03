@@ -14,8 +14,7 @@
 
     * [Funcionalidades](#funcionalidades)
     * [Imagens](#imagens)
-    * [Como Usar](#Como-usar)
-        * [Pré-requisitos](#pré-requisitos)
+    * [Pré requisitos](#pré-requisitos)
         * [Instalando as dependências](#instalando-as-dependências)
         * [Utilização](#utilização)
     * [Tecnologias](#tecnologias)
