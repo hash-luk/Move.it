@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://github.com/hash-luk/Move.it.git">Move.it</a>
 </h1>
-<p align="center">A project that uses the Pomodoro technique to keep you healthy and focused while coding</p>
+<p align="center">Uma aplicação criada para ajudar a manter saudável,pessoas que passam muito tempo em frente ao computador</p>
 
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Move.it&message=Luk&color=7159c1&style=for-the-badge&logo=react"/>
@@ -14,7 +14,7 @@
 <h4 align="center">
     🚧  Move.it 🚀 Em construção...  🚧
 
-## ⚙️Funcionalidades <a name="funcionalidades"></a>
+## ⚙️Funcionalidades
 
 
 - [X] Login com GitHub
