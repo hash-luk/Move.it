@@ -9,6 +9,7 @@ import CompletedChallanges from "../components/CompletedChallenges";
 import styles from "../styles/pages/Home.module.css";
 import ChallengeBox from "../components/ChallengeBox";
 import CountdownProvider from "../contexts/CountdownContext";
+import MenuBar from "../components/SideMenuBar";
 import next from "next";
 import ChallengesProvider from "../contexts/ChallengesContext";
 interface Homeprops {
@@ -18,8 +19,13 @@ interface Homeprops {
 }
 
 export default function Home(props: Homeprops) {
-    return(
-        <ChallengesProvider
+  return (
+    <>
+      <section>
+        <MenuBar />
+      </section>
+
+      <ChallengesProvider
         level={props.level}
         currentExperience={props.currentExperience}
         challengeCompleted={props.challengeCompleted}
@@ -29,7 +35,6 @@ export default function Home(props: Homeprops) {
             <title>Início | Moveit</title>
           </Head>
           <ExperienceBar />
-
           <CountdownProvider>
             <section>
               <div>
@@ -44,17 +49,18 @@ export default function Home(props: Homeprops) {
           </CountdownProvider>
         </div>
       </ChallengesProvider>
-    );
+    </>
+  );
 }
 
 export const getServerSideProps: GetServerSideProps = async (ctx) => {
-    const { level, currentExperience, challengeCompleted } = ctx.req.cookies;
-  
-    return {
-      props: {
-        level: Number(level),
-        currentExperience: Number(currentExperience),
-        challengeCompleted: Number(challengeCompleted),
-      },
-    };
+  const { level, currentExperience, challengeCompleted } = ctx.req.cookies;
+
+  return {
+    props: {
+      level: Number(level),
+      currentExperience: Number(currentExperience),
+      challengeCompleted: Number(challengeCompleted),
+    },
+  };
 };

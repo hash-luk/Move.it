@@ -70,7 +70,6 @@ export default function Index() {
 
         <a href="#">Crie uma conta</a>
         </div>
-      
       </div>
     </div>
   );

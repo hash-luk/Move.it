@@ -9,7 +9,6 @@
 }
 
 .logo_section {
-    /* padding-right: 900px; */
     overflow: hidden;
     transform:translateX(-350px);
 }
@@ -20,7 +19,7 @@
     align-items: center;
     justify-content: space-between;
     color: var(--white);
-    transform:translate(100px);
+    transform:translate(-70px);
 }
 
 .information_screen p{
@@ -37,8 +36,8 @@
 }
 
 .logo {
-    margin-bottom: 98px;
-    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .information_screen {

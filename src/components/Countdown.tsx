@@ -46,6 +46,7 @@ export default function Countdown() {
               onClick={resetCountdown}
             >
               Abandonar ciclo
+              <img src="/icons/exit.svg" alt="" className={styles.CrossImage}/>
             </button>
           ) : (
             <button
@@ -54,6 +55,7 @@ export default function Countdown() {
               onClick={startCountdown}
             >
               Iniciar um ciclo
+              <img src="/icons/play.svg" alt=""/>
             </button>
           )}
         </>
